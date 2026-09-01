@@ -6,10 +6,8 @@
     <meta name="review" content="05_01_2020" />
     <meta name="filename" content="index.html" />
     <meta name="subject" content="Pizza.py home page" />
-    <meta name="sandia.approval_type" content="formal" />
-    <meta name="sandia.approved" content="2020-4702W" />
-    <link rev="owns" title="Steve Plimpton" href="mailto:sjplimp@sandia.gov" />
-    <link rev="made, publisher" title="Steve Plimpton" href="mailto:sjplimp@sandia.gov" />
+    <link rev="owns" title="Steve Plimpton" href="mailto:sjplimp@gmail.com" />
+    <link rev="made, publisher" title="Steve Plimpton" href="mailto:sjplimp@gmail.com" />
     <meta name="MSSmartTagsPreventParsing" content="TRUE" />
     <meta name="Author" content="Steve Plimpton" />
 </HEAD>
@@ -46,13 +44,13 @@ This is the home page for the Pizza.py toolkit written in the
 "Scripts"_scripts.html,
 "Thanks"_thanks.html :tb(c=5,ea=c,a=c)
 
-:link(download,http://www.sandia.gov/~sjplimp/download.html)
+:link(download,https://sjplimp.github.io/download.html)
 
 Pizza.py is a loosely integrated collection of tools, many of which
 provide pre- and post-processing capability for the
-"LAMMPS"_http://lammps.sandia.gov molecular dynamics,
-"ChemCell"_http://chemcell.sandia.gov cell modeling, and
-"SPPARKS"_http://spparks.sandia.gov kinetic Monte Carlo packages.
+"LAMMPS"_https://lammpms.github.io molecular dynamics,
+"SPARTA"_https://sparta.github.io DSMC modeling, and
+"SPPARKS"_https://spparks.github.io kinetic Monte Carlo packages.
 There are tools to create input files, convert between file formats,
 process log and dump files, create plots, and visualize and animate
 simulation snapshots.  Software packages that are wrapped by Pizza.py,
@@ -84,27 +82,21 @@ available on your system.  If you don't have these add-ons or don't
 want to use a particular tool, you don't have to load it when Pizza.py
 starts up.  It's easy to modify or extend Pizza.py with new
 functionality or new tools, which need not have anything to do with
-"LAMMPS"_http://lammps.sandia.gov or
-"ChemCell"_http://chemcell.sandia.gov.
+"LAMMPS"_https://lammps.github.io or
+"SPARTA"_https://sparta.github.io.
 
 The chief author of Pizza.py is "Steve Plimpton"_sjp who can be
-contacted at sjplimp at sandia.gov.  Pizza.py is distributed by
-"Sandia National Laboratories"_snl, a US Department of Energy
-("DOE"_doe) laboratory.  Many of the tools were written by Matt Jones,
-a BYU student who spent a summer at Sandia.  Funding for Pizza.py
-development has come from the DOE and is "acknowledged
+contacted at sjplimp at gmail.com.  Some of the tools were written by
+Matt Jones, a BYU student who spent a summer at Sandia.  Funding for
+Pizza.py development has come from the DOE and is "acknowledged
 here"_thanks.html.
-
-The Pizza.py WWW site is hosted by Sandia, which has this "Privacy and
-Security statement"_security.
 
 :link(python,http://www.python.org)
 :link(gpl,http://www.gnu.org/copyleft/gpl.html)
 :link(snl,http://www.sandia.gov)
 :link(doe,http://www.doe.gov)
-:link(sjp,http://www.sandia.gov/~sjplimp)
-:link(security,http://www.sandia.gov/general/privacy-security/index.html)
-:link(sparta,http://sparta.sandia.gov)
+:link(sjp,https://sjplimp.github.io)
+:link(sparta,https://sparta.github.io)
 
 :line
 
