@@ -29,20 +29,16 @@ This is the home page for the Pizza.py toolkit written in the
 "Python"_python scripting language.
 
 "Features & Tools"_features.html,
-"Download"_download,
+"GitHub"_https://github.com/lammps/pizza,
 "Documentation"_doc/Manual.html,
 "Screenshots"_screen.html,
 "Open source"_open_source.html,
-"FAQ"_FAQ.html,
-"GitHub"_https://github.com/lammps/pizza,
-"Mail list"_mail.html,
-"Movies"_movies.html,
-"Contribute to Pizza.py"_contribute.html,
 "Latest features & bug fixes"_bug.html,
-"SourceForge"_http://sourceforge.net/projects/pizza-py,
-,
+"Download"_download,
+"Movies"_movies.html,
 "Scripts"_scripts.html,
-"Thanks"_thanks.html :tb(c=5,ea=c,a=c)
+"Thanks"_thanks.html
+:tb(c=5,ea=c,a=c)
 
 :link(download,https://sjplimp.github.io/download.html)
 
